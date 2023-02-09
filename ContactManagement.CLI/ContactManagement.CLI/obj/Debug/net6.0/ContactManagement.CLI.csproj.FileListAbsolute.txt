@@ -1,0 +1,15 @@
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\bin\Debug\net6.0\ContactManagement.CLI.exe
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\bin\Debug\net6.0\ContactManagement.CLI.deps.json
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\bin\Debug\net6.0\ContactManagement.CLI.runtimeconfig.json
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\bin\Debug\net6.0\ContactManagement.CLI.dll
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\bin\Debug\net6.0\ContactManagement.CLI.pdb
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\ContactManagement.CLI.csproj.AssemblyReference.cache
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\ContactManagement.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\ContactManagement.CLI.AssemblyInfoInputs.cache
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\ContactManagement.CLI.AssemblyInfo.cs
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\ContactManagement.CLI.csproj.CoreCompileInputs.cache
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\ContactManagement.CLI.dll
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\refint\ContactManagement.CLI.dll
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\ContactManagement.CLI.pdb
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\ContactManagement.CLI.genruntimeconfig.cache
+C:\Users\X6AVARS1\Documents\Visual Studio 2022\ContactManagement.CLI\ContactManagement.CLI\obj\Debug\net6.0\ref\ContactManagement.CLI.dll
